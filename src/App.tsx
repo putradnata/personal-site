@@ -1,5 +1,7 @@
+import RouteProvider from './routes';
+
 function App() {
-  return <p>hellow</p>;
+  return <RouteProvider />;
 }
 
 export default App;
